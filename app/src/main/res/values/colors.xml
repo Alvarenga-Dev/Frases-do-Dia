@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="caramel_200">#E6E0BB</color>
+    <color name="caramel_500">#cfc9a7</color>
+    <color name="caramel_700">#9d9778</color>
+    <color name="brown_200">#9f9b89</color>
+    <color name="brown_700">#454232</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
